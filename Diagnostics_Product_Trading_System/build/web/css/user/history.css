@@ -1,0 +1,29 @@
+/* 
+    Document   : history
+    Created on : 12 Jan, 2023, 10:00:27 PM
+    Author     : prath
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+
+*{
+  box-sizing: border-box;
+}
+ 
+
+.button1
+{
+    border-radius: 4px;
+    border: none;
+    color: white;  
+    height: 40px;
+    width: 120px; 
+    background-color: orange!important;
+    font: inherit;
+     
+}
